@@ -174,6 +174,7 @@ export default {
                   items: [
                     'pipeline-components/agents-1/compaction/compaction-hook',
                     'pipeline-components/agents-1/compaction/sliding-window-compactor',
+                    'pipeline-components/agents-1/compaction/summarization-compactor',
                     'pipeline-components/agents-1/compaction/tool-result-pruning-compactor',
                   ],
                 },
@@ -465,6 +466,7 @@ export default {
             'pipeline-components/generators/googleaigeminichatgenerator',
             'pipeline-components/generators/googleaigeminigenerator',
             'pipeline-components/generators/googlegenaichatgenerator',
+            'pipeline-components/generators/hetznerchatgenerator',
             'pipeline-components/generators/huggingfaceapichatgenerator',
             'pipeline-components/generators/litellmchatgenerator',
             'pipeline-components/generators/llamacppchatgenerator',
