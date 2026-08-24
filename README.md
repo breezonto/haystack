@@ -10,4 +10,6 @@ This repository retains all applicable copyright and license notices from the up
 
 - **develop**: the long-live active development branch (real Main branch of this project)
 
-- **fzb/devel**: the active branch for contribution to the upstream
+- **fzb/devel**: the active branch for dailay development
+
+- **fzb/backport**: the backport branch for upstream
