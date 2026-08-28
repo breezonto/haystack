@@ -298,6 +298,7 @@ export default {
             'pipeline-components/converters/msgtodocument',
             'pipeline-components/converters/multifileconverter',
             'pipeline-components/converters/openapiservicetofunctions',
+            'pipeline-components/converters/opendataloaderconverter',
             'pipeline-components/converters/outputadapter',
             'pipeline-components/converters/paddleocrvldocumentconverter',
             'pipeline-components/converters/pdfminertodocument',
@@ -602,6 +603,7 @@ export default {
           items: [
             'pipeline-components/retrievers/alloydbembeddingretriever',
             'pipeline-components/retrievers/alloydbkeywordretriever',
+            'pipeline-components/retrievers/amazonbedrockknowledgebaseretriever',
             'pipeline-components/retrievers/arangoembeddingretriever',
             'pipeline-components/retrievers/arcadedbembeddingretriever',
             'pipeline-components/retrievers/astraretriever',
